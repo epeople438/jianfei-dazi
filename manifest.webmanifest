@@ -1,0 +1,17 @@
+{
+  "name": "减肥搭子",
+  "short_name": "减肥搭子",
+  "description": "和朋友一起减肥：打卡、记录体重和饮食，看见彼此的变化。",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef4f2",
+  "theme_color": "#f36f5d",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
